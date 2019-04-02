@@ -3,6 +3,7 @@ const https = require("https");
 const generator = require("asyncapi-generator");
 const fs = require("fs");
 const path = require("path");
+const URL = require('url').URL;
 
 const specUrl = process.env.SPEC
 
