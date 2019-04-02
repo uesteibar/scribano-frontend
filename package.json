@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "asyncapi-generator": "^0.6.5"
+    "asyncapi-generator": "^0.6.5",
+    "node-fetch": "^2.3.0"
   }
 }
