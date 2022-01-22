@@ -11,6 +11,6 @@
   "dependencies": {
     "asyncapi-generator": "^0.6.5",
     "express": "^4.16.4",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^3.1.1"
   }
 }
