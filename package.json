@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "asyncapi-generator": "^0.6.5",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "node-fetch": "^2.6.1"
   }
 }
